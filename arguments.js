@@ -14,4 +14,4 @@ const greet1 = (name, id) => {
         return `Hello ${name}`;
     }
 };
-console.log(greet1("Ramesh"));
+console.log(greet1("Ramesh", 5));
