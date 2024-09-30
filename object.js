@@ -10,9 +10,8 @@ const student = {
     },
 };
 //another object
-const product = {
-    name: "Laptop",
-    price: 45000,
-    quantity: 5,
-};
-console.log(product);
+// const product: { name: string; price: number; quantity: number } = {
+//   name: "Laptop",
+//   price: 45000,
+//   quantity: 5,
+// };
