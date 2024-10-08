@@ -13,3 +13,4 @@ const formattedData = (value) => {
 console.log(formattedData(45));
 console.log(formattedData("rajesh"));
 formattedData(true);
+//ampersand operator is used in intersection type "&" ampersand means all the properties from both the types are going to be used
