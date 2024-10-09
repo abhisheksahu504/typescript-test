@@ -15,3 +15,7 @@ function add3(a, b, c) {
     console.log(`${a},${b},${c}`);
 }
 add3(5, "abcd", true);
+//watch mode enable by tsc --watch or tsc -w
+//rootDir folder for typescript files
+//"rootDir"="./src"
+//outDir for output files i.e javascript file
